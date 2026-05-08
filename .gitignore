@@ -1,0 +1,14 @@
+# plugins 目录配置
+
+# 第一步：默认忽略 plugins 目录下的所有内容
+.obsidian/plugins/**/*
+
+# 第二步：但保留各级目录的结构（这是实现选择性跟踪的前提）
+!.obsidian/plugins/*/
+!.obsidian/plugins/*/*/
+
+# 第三步：只“取消忽略”每个插件文件夹下的配置文件 data.json
+!.obsidian/plugins/*/data.json
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
