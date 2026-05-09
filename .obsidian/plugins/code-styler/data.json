@@ -299,7 +299,7 @@
   "currentTheme": {
     "settings": {
       "codeblock": {
-        "lineNumbers": false,
+        "lineNumbers": true,
         "unwrapLines": true,
         "wrapLinesActive": false,
         "curvature": 4
@@ -321,7 +321,7 @@
           "textItalic": false
         },
         "languageIcon": {
-          "display": "always",
+          "display": "if_header_shown",
           "displayColour": true
         },
         "externalReference": {

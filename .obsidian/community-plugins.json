@@ -3,6 +3,9 @@
   "obsidian-git",
   "obsidian-tasks-plugin",
   "obsidian-image-toolkit",
+  "obsidian-excalidraw-plugin",
+  "obsidian-linter",
   "code-styler",
-  "obsidian-excalidraw-plugin"
+  "obsidian-kanban",
+  "unique-attachments"
 ]
