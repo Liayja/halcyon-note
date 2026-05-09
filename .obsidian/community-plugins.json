@@ -1,4 +1,8 @@
 [
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tasks-plugin",
+  "obsidian-image-toolkit",
+  "code-styler",
+  "obsidian-excalidraw-plugin"
 ]
