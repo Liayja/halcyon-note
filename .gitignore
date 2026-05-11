@@ -1,4 +1,4 @@
-# plugins 目录配置
+# plugins 目录配置插件管理：只同步配置，不同步本体代码
 
 # 第一步：默认忽略 plugins 目录下的所有内容
 .obsidian/plugins/**/*
@@ -8,6 +8,7 @@
 !.obsidian/plugins/*/*/
 
 # 第三步：只“取消忽略”每个插件文件夹下的配置文件 data.json
+!.obsidian/community-plugins.json
 !.obsidian/plugins/*/data.json
 
 .obsidian/workspace.json
