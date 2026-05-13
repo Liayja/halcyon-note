@@ -249,4 +249,4 @@ git lfs track "attachments/**"
 
 一条规则管理所有附件。
 
-![](file-20260509162320691.png)
+![](../Assets/Obsidian同步到Github仓库/file-20260509162320691.png)
